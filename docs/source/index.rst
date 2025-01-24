@@ -7,5 +7,5 @@ Freenove Basic Starter Kit for ESP32 S3
    :caption: FNK0082
    :glob:
 
-   fnk0082/codes/C.rst
-   fnk0082/codes/Python.rst
+   fnk0084/codes/C.rst
+   fnk0084/codes/Python.rst
